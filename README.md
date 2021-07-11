@@ -20,4 +20,4 @@ Hey there!👋 I'm Ansel Dsouza, a budding Computer Engineering Student with a g
 <a href="https://www.kaggle.com/anseldsouza" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="ansel2000" height="20" width="20" /></a>
  </p>
 
-<!-- <a href="http://manasacharya.ml" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="manas-acharya" height="20" width="20" /></a> -->
+<a href="https://www.anseldsouza.tech" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="ansel-dsouza" height="20" width="20" /></a>
