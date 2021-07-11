@@ -18,6 +18,7 @@ Hey there!👋 I'm Ansel Dsouza, a budding Computer Engineering Student with a g
 <a href="https://github.com/ansel2000" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ansel2000" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/anselfdsouza" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="ansel-dsouza" height="20" width="20"/></a>
 <a href="https://www.kaggle.com/anseldsouza" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="ansel2000" height="20" width="20" /></a>
- </p>
-
 <a href="https://www.anseldsouza.tech" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="ansel-dsouza" height="20" width="20" /></a>
+</p>
+
+
