@@ -1,7 +1,7 @@
-## Hey there I'm [Ansel](https://www.linkedin.com/in/anselfdsouza) 👋 !
+## Hey there I'm [Ansel](https://www.linkedin.com/in/anselfdsouza) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> !
 
 
-Hey there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> I'm Ansel Dsouza, a budding Computer Engineering Student with a growing interest in Machine Learning & Data Science! Experienced in Flutter and Fullstack Development, looking out for collaborations and ever open to learning new technologies! 
+Hey there!👋 I'm Ansel Dsouza, a budding Computer Engineering Student with a growing interest in Machine Learning & Data Science! Experienced in Flutter and Fullstack Development, looking out for collaborations and ever open to learning new technologies! 
 
 - 🤖 Machine Learning Data Science Enthusiast
 - 🐍 Love automating tasks with the help of Python
